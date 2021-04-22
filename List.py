@@ -9,3 +9,5 @@ print("\nPrevious list content:", numbers)  # Printing previous list content.
 
 numbers[1] = numbers[4]  # Copying value of the fifth element to the second.
 print("New list content:", numbers)  # Printing current list content.
+
+print("\nList length:", len(numbers))  # Printing the list's length.
