@@ -54,3 +54,5 @@ del(hat_list[-1])
 print(hat_list)
 
 print(len(hat_list))
+
+
