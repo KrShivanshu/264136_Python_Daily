@@ -1,6 +1,6 @@
-lists = [1,2]
-#for v in range(2):
-#    lists.insert(-1,lists[v])
+lists = [1,2,3,4,5]
+for v in range(2):
+     lists.insert(-1,lists[v])
 
 print(lists)
 
@@ -15,4 +15,4 @@ def func(a=2,b=3):
 print(func(b=2))
 
 lists = [i for i in range(-1,-2)]
-print(5 not== 6)
+print(5 == 6)
